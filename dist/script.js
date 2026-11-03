@@ -5,3 +5,4 @@
 // import "./m2.js";
 import "./m3.js";
 import "./m4.js";
+import "./m6.js";
